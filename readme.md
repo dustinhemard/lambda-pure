@@ -4,7 +4,6 @@
 
 <img src="screenshot.png" width="864">
 
-
 ## Overview
 
 Most prompts are cluttered, ugly and slow. I wanted something visually pleasing that stayed out of my way.
@@ -138,6 +137,7 @@ prompt lambda-pure
 
 1. Symlink (or copy) `lambda-pure.zsh` to `~/.oh-my-zsh/custom/themes/lambda-pure.zsh-theme`.
 2. Set `ZSH_THEME="lambda-pure"` in your `.zshrc` file.
+3. Create a symlink to `lambda-pure/async.zsh` at `~/.oh-my-zsh/functions/async`
 
 ### [antigen](https://github.com/zsh-users/antigen)
 
